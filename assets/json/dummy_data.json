@@ -1,0 +1,33 @@
+[
+    {
+        "image": "assets/images/product1.png",
+        "title": "HP 62 Black Ink Cartridge",
+        "subtitle": "(HPC2P04AE)",
+        "price": "$9.49"
+    },
+    {
+        "image": "assets/images/product2.png",
+        "title": "Canon MF-3110 Toner",
+        "subtitle": "(C2P04AE)",
+        "price": "$36.45"
+    },
+    {
+        "image": "assets/images/product1.png",
+        "title": "HP 62 Black Ink Cartridge",
+        "subtitle": "(HPC2P04AE)",
+        "price": "$9.49",
+        "discountedPrice": "$5.99"
+    },
+    {
+        "image": "assets/images/product4.png",
+        "title": "Epson 664 Ink Bottle",
+        "subtitle": "(T664420)",
+        "price": "$8.99"
+    },
+    {
+        "image": "assets/images/product5.png",
+        "title": "Brother TN-660 Toner",
+        "subtitle": "(TN660)",
+        "price": "$54.99"
+    }
+]

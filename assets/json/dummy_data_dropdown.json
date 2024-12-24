@@ -1,0 +1,6 @@
+{
+    "printerBrands": ["HP", "Canon", "Epson", "Brother"],
+    "printerSeries": ["Series 1", "Series 2", "Series 3"],
+    "printerModels": ["Model A", "Model B", "Model C"]
+  }
+  
